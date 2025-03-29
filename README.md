@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm a creative UI UX Designer and a frontend developer<br>- Studying Fullstack development<br><br>- Studying ThreeJs<br>
+- I'm a creative UI UX Designer and a frontend developer<br> Studying Fullstack development<br><br> Studying ThreeJs<br>
 
 
 ## 🌐 Socials:
