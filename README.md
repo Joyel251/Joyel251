@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=F762DEFF&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Creative+Developer;Visual+Storyteller)](https://git.io/typing-svg)
 
-<img src="https://i.imgur.com/IRBu6cP.png" width="100%" alt="Design Divider"/>
-
 </div>
 
 <div align="center">
@@ -16,20 +14,20 @@
 
 </div>
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <h3>📐 Design</h3>
-      <img src="https://i.imgur.com/wWjbBFX.png" width="80%" alt="Design Process"/>
-      <p>UI/UX | Visual Design | Interaction</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>💻 Development</h3>
-      <img src="https://i.imgur.com/uTBNg8K.png" width="80%" alt="Code Process"/>
-      <p>Frontend | React | ThreeJS</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>📐 Design</h3>
+        <p>UI/UX | Visual Design | Interaction</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>💻 Development</h3>
+        <p>Frontend | React | ThreeJS</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   
@@ -37,75 +35,54 @@
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
-      <br>Illustrator
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="XD" />
-      <br>XD
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects" />
-      <br>After Effects
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-      <br>Three.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  
-## 📂 Portfolio Highlights
-
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
+        <br>Gatsby
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="48" height="48" alt="Express" />
+        <br>Express
+      </td>
+    </tr>
+  </table>
 </div>
-
-<table align="center" border="0">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://i.imgur.com/8lMI1bg.png" width="100%" alt="Project 1"/>
-      <p>UI/UX Redesign</p>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://i.imgur.com/bV8HwaH.png" width="100%" alt="Project 2"/>
-      <p>Interactive Experience</p>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://i.imgur.com/yAMxAe7.png" width="100%" alt="Project 3"/>
-      <p>Mobile App Design</p>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   
