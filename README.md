@@ -1,8 +1,10 @@
 <div align="center">
   
-# JOYEL
+# JOYEL Immanuel L
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab:wght@700&size=28&duration=800&pause=600&color=8A2BE2&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Frontend+Developer;ThreeJS+Learner;Visual+Storyteller)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0A66C2&height=3" width="100%">
 
 </div>
 
@@ -15,18 +17,26 @@
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=8A2BE2&height=1" width="70%">
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>Design</h3>
-        <p>UI/UX | Visual Design | Interaction Design</p>
+        <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24" style="vertical-align:middle;"> Design</h3>
+        <p><i>UI/UX | Visual Design | Interaction Design</i></p>
       </td>
       <td width="50%" align="center">
-        <h3>Development</h3>
-        <p>Frontend | React | ThreeJS (Learning)</p>
+        <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" style="vertical-align:middle;"> Development</h3>
+        <p><i>Frontend | React | ThreeJS (Learning)</i></p>
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=8A2BE2&height=1" width="70%">
 </div>
 
 <div align="center">
@@ -78,7 +88,7 @@
       </td>
       <td align="center" width="96">
         <a href="https://en.cppreference.com/w/c/language" target="_blank">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=1500&pause=500&color=0A66C2&center=true&vCenter=true&repeat=true&width=65&height=65&lines=C;C;C" alt="Animated C" width="65" height="65" />
           <br>C
         </a>
       </td>
@@ -93,26 +103,66 @@
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0A66C2&height=3" width="100%">
+</div>
+
+<div align="center">
   
-## Connect
+## GitHub Stats
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/joyel251">
+    <img src="https://github-readme-stats.vercel.app/api?username=joyel251&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&card_width=400" height="180px"/>
+  </a>
+  <a href="https://github.com/joyel251">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyel251&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180px"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/joyel251">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=joyel251&theme=tokyonight&hide_border=true" width="70%"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=8A2BE2&height=1" width="70%">
+</div>
+
+<div align="center">
+  
+## GitHub Trophies
+<a href="https://github.com/joyel251">
+  <img src="https://github-profile-trophy.vercel.app/?username=joyel251&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" width="100%" alt="GitHub Trophies"/>
+</a>
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0A66C2&height=3" width="100%">
+</div>
+
+<div align="center">
+  
+## Connect With Me
 
 </div>
 
 <div align="center">
   <a href="mailto:joyelimmanuel.27csa@licet.ac.in">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <br>
   <a href="https://portfolio-beryl-gamma-33.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://instagram.com/____joyel___">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/joyel-emmanuel">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="tel:+916374383989">
-    <img src="https://img.shields.io/badge/-Call-0A66C2?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
@@ -121,6 +171,8 @@
 </div>
 
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%"/>
   
   ***"Crafting digital experiences with purpose and precision"***
   
