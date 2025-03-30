@@ -1,6 +1,6 @@
 <div align="center">
   
-# JOYEL
+# JOYEL Immanuel L
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab:wght@700&size=28&duration=800&pause=600&color=8A2BE2&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Frontend+Developer;ThreeJS+Learner;Visual+Storyteller)](https://git.io/typing-svg)
 
@@ -78,7 +78,7 @@
       </td>
       <td align="center" width="96">
         <a href="https://en.cppreference.com/w/c/language" target="_blank">
-          <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d718callback.png" width="48" height="48" alt="C" />
+          <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d718c6ded.png" width="48" height="48" alt="C" />
           <br>C
         </a>
       </td>
@@ -130,12 +130,12 @@
 
 <div align="center">
   <a href="mailto:joyelimmanuel.27csa@licet.ac.in">
-    <img src="https://img.shields.io/badge/📧_Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://portfolio-beryl-gamma-33.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/joyelimmanuel.27csa@licet.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <br>
+  <a href="https://portfolio-beryl-gamma-33.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://instagram.com/____joyel___">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -144,7 +144,7 @@
   </a>
   <p>
     <a href="tel:+916374383989">
-      <img src="https://img.shields.io/badge/📱_+91_6374383989-0A66C2?style=for-the-badge&logoColor=white" alt="Phone"/>
+      <img src="https://img.shields.io/badge/+91_6374383989-0A66C2?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
     </a>
   </p>
 </div>
