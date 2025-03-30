@@ -1,16 +1,16 @@
 <div align="center">
   
-# ✨ JOYEL ✨
+# JOYEL
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=F762DEFF&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Creative+Developer;Visual+Storyteller)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=F762DEFF&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;ThreeJS+Developer;Creative+Coder;Visual+Storyteller)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-## 👁️ Design + Code
+## Design + Development
 
-*I create experiences that look good and work well.*
+*Creating immersive experiences at the intersection of design and code*
 
 </div>
 
@@ -18,12 +18,12 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>📐 Design</h3>
-        <p>UI/UX | Visual Design | Interaction</p>
+        <h3>Design</h3>
+        <p>UI/UX | Visual Design | Interaction Design</p>
       </td>
       <td width="50%" align="center">
-        <h3>💻 Development</h3>
-        <p>Frontend | React | ThreeJS</p>
+        <h3>Development</h3>
+        <p>Frontend | React | <b>ThreeJS</b> | Immersive Web</p>
       </td>
     </tr>
   </table>
@@ -31,7 +31,7 @@
 
 <div align="center">
   
-## 🎨 Design Tools & Tech Stack
+## Tech Stack
 
 </div>
 
@@ -39,46 +39,66 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        <br>React
+        <a href="https://reactjs.org/" target="_blank">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+          <br>React
+        </a>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+          <br>JavaScript
+        </a>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-        <br>TypeScript
+        <a href="https://www.typescriptlang.org/" target="_blank">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+          <br>TypeScript
+        </a>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-        <br>MySQL
+        <a href="https://threejs.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/threejs-colored.svg" width="65" height="65" alt="ThreeJS" />
+          <br>ThreeJS
+        </a>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
-        <br>Gatsby
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+          <br>MySQL
+        </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="Figma" />
-        <br>Figma
+        <a href="https://www.figma.com/" target="_blank">
+          <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="Figma" />
+          <br>Figma
+        </a>
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="48" height="48" alt="React" />
-        <br>React
+        <a href="https://nodejs.org/" target="_blank">
+          <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="48" height="48" alt="Node.js" />
+          <br>Node.js
+        </a>
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
+        <a href="https://expressjs.com/" target="_blank">
+          <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="48" height="48" alt="Express" />
+          <br>Express
+        </a>
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="48" height="48" alt="Node.js" />
-        <br>Node.js
+        <a href="https://www.blender.org/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" width="48" height="48" alt="Blender" />
+          <br>Blender
+        </a>
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="48" height="48" alt="Express" />
-        <br>Express
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="48" height="48" alt="TailwindCSS" />
+          <br>Tailwind
+        </a>
       </td>
     </tr>
   </table>
@@ -86,7 +106,15 @@
 
 <div align="center">
   
-## 💭 Design Philosophy
+## ThreeJS Immersive Experiences
+
+</div>
+
+I create interactive 3D web experiences using ThreeJS and modern web technologies. My work combines technical proficiency with design sensibility to build applications that are not only visually stunning but also performant and accessible.
+
+<div align="center">
+  
+## Philosophy
 
 </div>
 
@@ -94,33 +122,41 @@
 "Design is not just what it looks like. Design is how it works."
 ```
 
-I blend aesthetics with functionality to create experiences that are both beautiful and useful. Every element has a purpose, and every interaction matters.
+I believe in the marriage of form and function, where aesthetics enhance usability rather than compete with it. Every pixel has purpose, every animation has meaning, and every interaction improves the user experience.
 
 <div align="center">
   
-## 📊 GitHub Activity
+## GitHub Stats
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyel251&theme=radical&hide_border=true&include_all_commits=false&count_private=false&card_width=400" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyel251&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180px"/>
+  <a href="https://github.com/joyel251">
+    <img src="https://github-readme-stats.vercel.app/api?username=joyel251&theme=radical&hide_border=true&include_all_commits=false&count_private=false&card_width=400" height="180px"/>
+  </a>
+  <a href="https://github.com/joyel251">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyel251&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180px"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=joyel251&theme=radical&hide_border=true" width="70%"/>
+  <a href="https://github.com/joyel251">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=joyel251&theme=radical&hide_border=true" width="70%"/>
+  </a>
 </div>
 
 <div align="center">
   
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=joyel251&theme=radical&no-frame=true&no-bg=false&margin-w=4" width="100%" alt="GitHub Trophies"/>
+## GitHub Trophies
+<a href="https://github.com/joyel251">
+  <img src="https://github-profile-trophy.vercel.app/?username=joyel251&theme=radical&no-frame=true&no-bg=false&margin-w=4" width="100%" alt="GitHub Trophies"/>
+</a>
   
 </div>
 
 <div align="center">
   
-## 🌐 Let's Connect
+## Connect
 
 </div>
 
@@ -134,6 +170,9 @@ I blend aesthetics with functionality to create experiences that are both beauti
   <a href="#">
     <img src="https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://www.linkedin.com/in/joyel-emmanuel">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
 <div align="center">
@@ -142,6 +181,6 @@ I blend aesthetics with functionality to create experiences that are both beauti
 
 <div align="center">
   
-  ***"Where design meets code, magic happens"***
+  ***"At the intersection of design and code, digital experiences come to life"***
   
 </div>
