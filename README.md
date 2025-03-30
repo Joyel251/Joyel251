@@ -2,7 +2,7 @@
   
 # JOYEL
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=28&duration=750&pause=500&color=F762DEFF&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Frontend+Developer;ThreeJS+Learner;Visual+Storyteller)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab:wght@700&size=28&duration=800&pause=600&color=8A2BE2&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Frontend+Developer;ThreeJS+Learner;Visual+Storyteller)](https://git.io/typing-svg)
 
 </div>
 
@@ -57,9 +57,9 @@
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.mysql.com/" target="_blank">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-          <br>MySQL
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+          <br>Python
         </a>
       </td>
     </tr>
@@ -77,15 +77,15 @@
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://expressjs.com/" target="_blank">
-          <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="48" height="48" alt="Express" />
-          <br>Express
+        <a href="https://en.cppreference.com/w/c/language" target="_blank">
+          <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d718callback.png" width="48" height="48" alt="C" />
+          <br>C
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://tailwindcss.com/" target="_blank">
-          <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="48" height="48" alt="TailwindCSS" />
-          <br>Tailwind
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+          <br>MySQL
         </a>
       </td>
     </tr>
@@ -100,16 +100,16 @@
 
 <div align="center">
   <a href="https://github.com/joyel251">
-    <img src="https://github-readme-stats.vercel.app/api?username=joyel251&theme=radical&hide_border=true&include_all_commits=false&count_private=false&card_width=400" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=joyel251&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&card_width=400" height="180px"/>
   </a>
   <a href="https://github.com/joyel251">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyel251&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyel251&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180px"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/joyel251">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=joyel251&theme=radical&hide_border=true" width="70%"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=joyel251&theme=tokyonight&hide_border=true" width="70%"/>
   </a>
 </div>
 
@@ -117,7 +117,7 @@
   
 ## GitHub Trophies
 <a href="https://github.com/joyel251">
-  <img src="https://github-profile-trophy.vercel.app/?username=joyel251&theme=radical&no-frame=true&no-bg=false&margin-w=4" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=joyel251&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" width="100%" alt="GitHub Trophies"/>
 </a>
   
 </div>
@@ -130,12 +130,12 @@
 
 <div align="center">
   <a href="mailto:joyelimmanuel.27csa@licet.ac.in">
-    <img src="https://img.shields.io/badge/joyelimmanuel.27csa@licet.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/📧_Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfolio-beryl-gamma-33.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <br>
-  <a href="https://portfolio-beryl-gamma-33.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://instagram.com/____joyel___">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -144,13 +144,13 @@
   </a>
   <p>
     <a href="tel:+916374383989">
-      <img src="https://img.shields.io/badge/+91_6374383989-0077B5?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+      <img src="https://img.shields.io/badge/📱_+91_6374383989-0A66C2?style=for-the-badge&logoColor=white" alt="Phone"/>
     </a>
   </p>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joyel251&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=joyel251&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
 </div>
 
 <div align="center">
