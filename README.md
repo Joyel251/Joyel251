@@ -1,6 +1,6 @@
 <div align="center">
   
-# JOYEL Immanuel L
+# JOYEL
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab:wght@700&size=28&duration=800&pause=600&color=8A2BE2&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Frontend+Developer;ThreeJS+Learner;Visual+Storyteller)](https://git.io/typing-svg)
 
@@ -78,7 +78,7 @@
       </td>
       <td align="center" width="96">
         <a href="https://en.cppreference.com/w/c/language" target="_blank">
-          <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d718c6ded.png" width="48" height="48" alt="C" />
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C" />
           <br>C
         </a>
       </td>
@@ -94,59 +94,26 @@
 
 <div align="center">
   
-## GitHub Stats
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/joyel251">
-    <img src="https://github-readme-stats.vercel.app/api?username=joyel251&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&card_width=400" height="180px"/>
-  </a>
-  <a href="https://github.com/joyel251">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyel251&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180px"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/joyel251">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=joyel251&theme=tokyonight&hide_border=true" width="70%"/>
-  </a>
-</div>
-
-<div align="center">
-  
-## GitHub Trophies
-<a href="https://github.com/joyel251">
-  <img src="https://github-profile-trophy.vercel.app/?username=joyel251&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" width="100%" alt="GitHub Trophies"/>
-</a>
-  
-</div>
-
-<div align="center">
-  
 ## Connect
 
 </div>
 
 <div align="center">
   <a href="mailto:joyelimmanuel.27csa@licet.ac.in">
-    <img src="https://img.shields.io/badge/joyelimmanuel.27csa@licet.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <br>
   <a href="https://portfolio-beryl-gamma-33.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://instagram.com/____joyel___">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/joyel-emmanuel">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <p>
-    <a href="tel:+916374383989">
-      <img src="https://img.shields.io/badge/+91_6374383989-0A66C2?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-    </a>
-  </p>
+  <a href="tel:+916374383989">
+    <img src="https://img.shields.io/badge/-Call-0A66C2?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  </a>
 </div>
 
 <div align="center">
