@@ -1,39 +1,12 @@
 <div align="center">
   
-# ✨ JOYEL | Web Creator ✨
+#  JOYEL | Web Creator 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Frontend+Developer;ThreeJS+Learner;Future+Fullstack+Coder)](https://git.io/typing-svg)
 
 </div>
 
-```js
-/** 
- * Welcome to my code world 
- * @author Joyel
- */
-const Joyel = {
-  title: "UI/UX Designer & Frontend Developer",
-  focus: "Making great websites and apps",
-  learning: [
-    "3D web with ThreeJS",
-    "React apps",
-    "Fullstack coding"
-  ],
-  skills: function() {
-    return {
-      design: ["UI/UX", "Website Design", "User-friendly Design"],
-      frontend: ["React", "Next.js", "TypeScript", "JavaScript"],
-      mobile: ["React Native"],
-      backend: ["Node.js", "Express"],
-      databases: ["MongoDB", "MySQL"],
-      tools: ["Figma", "Canva", "Git", "Vercel"]
-    };
-  },
-  goal: "Mixing good design with working code"
-};
 
-// Let's talk!
-console.log("Let's build something cool together!");
 ```
 
 <div align="center">
