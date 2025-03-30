@@ -2,7 +2,7 @@
   
 # JOYEL
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=F762DEFF&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Frontend+Developer;ThreeJS+Learner;Visual+Storyteller)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat:wght@700&size=28&duration=750&pause=500&color=F762DEFF&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Frontend+Developer;ThreeJS+Learner;Visual+Storyteller)](https://git.io/typing-svg)
 
 </div>
 
@@ -94,18 +94,6 @@
 
 <div align="center">
   
-## Philosophy
-
-</div>
-
-```
-"Design is not just what it looks like. Design is how it works."
-```
-
-I believe in creating digital experiences that balance form and function. My approach focuses on intuitive interfaces and clean code that work together to deliver meaningful user experiences.
-
-<div align="center">
-  
 ## GitHub Stats
 
 </div>
@@ -142,21 +130,23 @@ I believe in creating digital experiences that balance form and function. My app
 
 <div align="center">
   <a href="mailto:joyelimmanuel.27csa@licet.ac.in">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/joyelimmanuel.27csa@licet.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <br>
+  <a href="https://portfolio-beryl-gamma-33.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://instagram.com/____joyel___">
-    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://portfolio-beryl-gamma-33.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/joyel-emmanuel">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
-
-<div align="center">
-  <p>📱 +91 6374383989</p>
+  <p>
+    <a href="tel:+916374383989">
+      <img src="https://img.shields.io/badge/+91_6374383989-0077B5?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+    </a>
+  </p>
 </div>
 
 <div align="center">
