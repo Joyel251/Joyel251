@@ -2,7 +2,7 @@
   
 # JOYEL
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=F762DEFF&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;ThreeJS+Developer;Creative+Coder;Visual+Storyteller)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=F762DEFF&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Frontend+Developer;ThreeJS+Learner;Visual+Storyteller)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## Design + Development
 
-*Creating immersive experiences at the intersection of design and code*
+*Creating engaging digital experiences with clean design and efficient code*
 
 </div>
 
@@ -23,7 +23,7 @@
       </td>
       <td width="50%" align="center">
         <h3>Development</h3>
-        <p>Frontend | React | <b>ThreeJS</b> | Immersive Web</p>
+        <p>Frontend | React | ThreeJS (Learning)</p>
       </td>
     </tr>
   </table>
@@ -57,12 +57,6 @@
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://threejs.org/" target="_blank">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/threejs-colored.svg" width="65" height="65" alt="ThreeJS" />
-          <br>ThreeJS
-        </a>
-      </td>
-      <td align="center" width="96">
         <a href="https://www.mysql.com/" target="_blank">
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
           <br>MySQL
@@ -89,12 +83,6 @@
         </a>
       </td>
       <td align="center" width="96">
-        <a href="https://www.blender.org/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" width="48" height="48" alt="Blender" />
-          <br>Blender
-        </a>
-      </td>
-      <td align="center" width="96">
         <a href="https://tailwindcss.com/" target="_blank">
           <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="48" height="48" alt="TailwindCSS" />
           <br>Tailwind
@@ -106,14 +94,6 @@
 
 <div align="center">
   
-## ThreeJS Immersive Experiences
-
-</div>
-
-I create interactive 3D web experiences using ThreeJS and modern web technologies. My work combines technical proficiency with design sensibility to build applications that are not only visually stunning but also performant and accessible.
-
-<div align="center">
-  
 ## Philosophy
 
 </div>
@@ -122,7 +102,7 @@ I create interactive 3D web experiences using ThreeJS and modern web technologie
 "Design is not just what it looks like. Design is how it works."
 ```
 
-I believe in the marriage of form and function, where aesthetics enhance usability rather than compete with it. Every pixel has purpose, every animation has meaning, and every interaction improves the user experience.
+I believe in creating digital experiences that balance form and function. My approach focuses on intuitive interfaces and clean code that work together to deliver meaningful user experiences.
 
 <div align="center">
   
@@ -167,12 +147,16 @@ I believe in the marriage of form and function, where aesthetics enhance usabili
   <a href="https://instagram.com/____joyel___">
     <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/>
+  <a href="https://portfolio-beryl-gamma-33.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/joyel-emmanuel">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</div>
+
+<div align="center">
+  <p>📱 +91 6374383989</p>
 </div>
 
 <div align="center">
@@ -181,6 +165,6 @@ I believe in the marriage of form and function, where aesthetics enhance usabili
 
 <div align="center">
   
-  ***"At the intersection of design and code, digital experiences come to life"***
+  ***"Crafting digital experiences with purpose and precision"***
   
 </div>
