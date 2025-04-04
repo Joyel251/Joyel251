@@ -166,9 +166,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joyel251&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
-</div>
+
 
 <div align="center">
   
